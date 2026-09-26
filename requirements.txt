@@ -1,0 +1,8 @@
+# Just Dance Mashup Studio — зависимости
+# Установите ffmpeg отдельно и добавьте в PATH:
+#   Windows: https://ffmpeg.org/download.html
+#   Linux:   sudo apt install ffmpeg
+#   macOS:   brew install ffmpeg
+
+Pillow>=10.0.0
+# tkinter входит в стандартную поставку Python
